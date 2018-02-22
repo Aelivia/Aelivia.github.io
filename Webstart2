@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Lawles.Space</title>
+    </head>
+<body>
+    <center>
+    <h1>[x]</h1>
+ <img id="logo"><iframe src="https://drive.google.com/file/d/1OxNF4zk_w-qiMFCAlgPWjoGtUp1d7WW3/preview" width="640" height="480"></iframe></img></center>
+ <ul id="nav_container">
+ <li id="home.html">home</li>
+ <li id="about.html">about</li>
+ <li id="media.html">media</li>
+ <li id="contact.html">contact</li></ul>
+
+
+    <center><p>everything inspires countless minds.<br/>
+    here are the pieces that come from mine.</p>
+    </center>
+</body>
+</html>
